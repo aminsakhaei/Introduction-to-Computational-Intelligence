@@ -4,7 +4,7 @@ This repository contains the code and documentation for two projects completed d
 
 ## Project 1: Simulating Learning and Recognizing Patterns in the Human Brain
 
-This project aims to simulate the behavior of the brain in learning input data. In the human brain, the learning process involves taking in input data through the senses and adapting to produce desired outputs. This project explores the simulation of this learning process, particularly with a focus on linear memory. The code and report (in Farsi) are available in the [Human Brain](Human_Brain/) directory.
+This project aims to simulate the behavior of the brain in learning input data. In the human brain, the learning process involves taking in input data through the senses and adapting to produce desired outputs. This project explores the simulation of this learning process, particularly with a focus on linear memory. The code and report (in Farsi) are available in the [Human Brain](Human Brain/) directory.
 
 ## Project 2: Implementation of Single-Layer Perceptron Algorithm
 
