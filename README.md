@@ -1,6 +1,6 @@
 # Introduction-to-Computational-Intelligence
 
-This repository contains the code and documentation for two projects completed during the "Introduction to Computational Intelligence" course in fall 2020. The projects explore different aspects of computational intelligence, including simulating learning and pattern recognition in the human brain with a linear memory and implementing the Single-Layer Perceptron algorithm for AND, OR, and XNOR logic gates.
+This repository contains the code and documentation for two projects completed during the "Introduction to Computational Intelligence" course instructed by Dr. Ali Seyedsalehi in Fall 2021 at Amirkabir University of Technology. The projects explore different aspects of computational intelligence, including simulating learning and pattern recognition in the human brain with a linear memory and implementing the Single-Layer Perceptron algorithm for AND, OR, and XNOR logic gates.
 
 ## Project 1: Simulating Learning and Recognizing Patterns in the Human Brain
 
