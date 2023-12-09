@@ -4,8 +4,8 @@ This repository contains the code and documentation for two projects completed d
 
 ## Project 1: Simulating Learning and Recognizing Patterns in the Human Brain
 
-This project aims to simulate the behavior of the brain in learning input data. In the human brain, the learning process involves taking in input data through the senses and adapting to produce desired outputs. This project explores the simulation of this learning process, particularly with a focus on linear memory. The code and report (in Farsi) are available in the perceptron_algorithm directory
+This project aims to simulate the behavior of the brain in learning input data. In the human brain, the learning process involves taking in input data through the senses and adapting to produce desired outputs. This project explores the simulation of this learning process, particularly with a focus on linear memory. The code and report (in Farsi) are available in the [Human Brain](Human_Brain/) directory.
 
 ## Project 2: Implementation of Single-Layer Perceptron Algorithm
 
-This project involves the implementation of the Single-Layer Perceptron algorithm for AND, OR, and XNOR logic gates. The focus is on understanding the principles of neural networks and their application in solving simple logic problems. The code and report (in Farsi) are available in the perceptron_algorithm directory
+This project involves the implementation of the Single-Layer Perceptron algorithm for AND, OR, and XNOR logic gates. The focus is on understanding the principles of neural networks and their application in solving simple logic problems. The code and report (in Farsi) are available in the [Perceptron](Perceptron/) directory.
